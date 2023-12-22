@@ -1,0 +1,2 @@
+# ETL_project_GDP
+ This Python code is an ETL pipeline for extracting GDP data from a webpage, transforming it, and loading into a MySQL database. It employs web scraping (BeautifulSoup), data manipulation (pandas, numpy), and database management (mysql.connector). Key stages include data extraction, conversion of GDP figures, CSV file creation, and database operations, showcasing skills in data engineering,Python programming and SQL querys.
